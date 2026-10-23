@@ -40,3 +40,17 @@ Apabila sebuah kampus ingin mengembangkan sistem informasi akademik yang dapat d
 
 4. Apple Developer. _App development_.  
    https://developer.apple.com/develop/
+
+## 5. Refleksi Pembelajaran
+
+### 1. Platform yang Paling Menarik untuk Dipelajari
+
+Menurut saya, platform web merupakan platform yang paling menarik untuk dipelajari. Hal ini karena aplikasi web dapat diakses melalui browser tanpa harus memasang aplikasi khusus di setiap perangkat. Selain itu, pengembangan web memungkinkan saya mempelajari HTML, CSS, dan JavaScript secara bertahap. Saya juga tertarik karena aplikasi web dapat digunakan untuk berbagai kebutuhan, seperti sistem informasi akademik, toko online, dan layanan administrasi. Pengetahuan tersebut dapat menjadi bekal untuk mengembangkan aplikasi yang bermanfaat bagi masyarakat.
+
+### 2. Tantangan Terbesar Saat Setup Environment
+
+Tantangan terbesar yang saya alami saat menyiapkan environment adalah memahami penggunaan Git dan menghubungkannya dengan repository GitHub. Saya sempat mengalami kendala ketika menambahkan file karena nama file yang digunakan tidak sesuai dengan nama file yang tersedia. Selain itu, proses commit mengalami kegagalan karena identitas nama dan email Git belum dikonfigurasi. Saya juga perlu memahami perbedaan antara menyimpan perubahan secara lokal dan mengirimkannya ke GitHub.
+
+### 3. Rencana Mengatasi Tantangan
+
+Untuk mengatasi tantangan tersebut, saya akan mempelajari kembali perintah dasar Git, seperti git status, git add, git commit, dan git push. Saya juga akan membiasakan diri memeriksa nama file dan lokasi folder sebelum menjalankan perintah. Jika mengalami kesalahan, saya akan membaca pesan error dengan teliti dan mencari solusinya melalui dokumentasi resmi atau bertanya kepada dosen dan teman. Dengan latihan secara rutin, saya berharap lebih memahami alur kerja pengembangan aplikasi dan dapat bekerja sama dalam proyek kelompok dengan lebih baik.
